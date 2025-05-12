@@ -64,8 +64,7 @@ CSS3 – Styling and layout
 
 JavaScript – Input validation and page navigation
 
-▶️ How to Run the Project
-git clone https://github.com/vatsan08/Franqlin_Projects/edit/main/README.md
+
 
 
 
